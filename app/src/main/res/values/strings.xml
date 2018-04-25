@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MD_Ejercicio21</string>
+    <string name="app_name">MD_21_Checkbox</string>
+    <string name="checkbox">CheckBox</string>
 </resources>
